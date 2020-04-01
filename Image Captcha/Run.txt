@@ -1,0 +1,6 @@
+Open file in IDLE.
+Check whether the Respective Modules used are installed in your System.
+Click Run module.
+Select the pics(options).
+Click verify.
+
